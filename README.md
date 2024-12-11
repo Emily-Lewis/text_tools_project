@@ -11,4 +11,6 @@ I have three main scripts for this project:
 
 3. Python script for sentiment analysis of cleaned text files using nltk library. (sentimentanalysis.py)
 
-Output using video IDs listed in dictionary in comments.py in Resources folder
+Output using video IDs listed in dictionary in comments.py in Resources folder.
+
+Resources folder also contains the list of stop words I used to filter in cleanscript.sh
