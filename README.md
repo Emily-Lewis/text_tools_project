@@ -14,3 +14,5 @@ I have three main scripts for this project:
 Output using video IDs listed in dictionary in comments.py in Resources folder.
 
 Resources folder also contains the list of stop words I used to filter in cleanscript.sh
+
+I have also included an example unclean and clean comment data txt file as an example of the output of comments.py and cleanscript.sh
