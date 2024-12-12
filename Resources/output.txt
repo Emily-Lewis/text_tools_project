@@ -46,3 +46,26 @@ Sentiment values for /users/emily/Desktop/MSU/YoutubeComments/marvelwhatifs3_cle
 
 Sentiment values for /users/emily/Desktop/MSU/YoutubeComments/sheeransubtract_clean.txt are: {'neg': 0.094, 'neu': 0.689, 'pos': 0.218, 'compound': 0.997} (2024-12-11) 
 
+Sentiment values for /users/emily/Desktop/MSU/YoutubeComments/traindragon_clean.txt are: {'neg': 0.096, 'neu': 0.598, 'pos': 0.305, 'compound': 0.9994} (2024-12-11) 
+
+Sentiment values for /users/emily/Desktop/MSU/YoutubeComments/minecraftmovie_clean.txt are: {'neg': 0.136, 'neu': 0.694, 'pos': 0.17, 'compound': 0.9211} (2024-12-11) 
+
+Sentiment values for /users/emily/Desktop/MSU/YoutubeComments/ghostofyotei_clean.txt are: {'neg': 0.134, 'neu': 0.66, 'pos': 0.205, 'compound': 0.9949} (2024-12-11) 
+
+Sentiment values for /users/emily/Desktop/MSU/YoutubeComments/bornpink_clean.txt are: {'neg': 0.12, 'neu': 0.723, 'pos': 0.157, 'compound': 0.9812} (2024-12-11) 
+
+Sentiment values for /users/emily/Desktop/MSU/YoutubeComments/overwatchclassic_clean.txt are: {'neg': 0.132, 'neu': 0.584, 'pos': 0.284, 'compound': 0.9993} (2024-12-11) 
+
+Sentiment values for /users/emily/Desktop/MSU/YoutubeComments/squidgame2_clean.txt are: {'neg': 0.176, 'neu': 0.56, 'pos': 0.263, 'compound': 0.9941} (2024-12-11) 
+
+Sentiment values for /users/emily/Desktop/MSU/YoutubeComments/partyneverends_clean.txt are: {'neg': 0.209, 'neu': 0.583, 'pos': 0.209, 'compound': 0.0162} (2024-12-11) 
+
+Sentiment values for /users/emily/Desktop/MSU/YoutubeComments/captainamerica_clean.txt are: {'neg': 0.121, 'neu': 0.547, 'pos': 0.332, 'compound': 0.9996} (2024-12-11) 
+
+Sentiment values for /users/emily/Desktop/MSU/YoutubeComments/subnautica2_clean.txt are: {'neg': 0.104, 'neu': 0.65, 'pos': 0.245, 'compound': 0.9983} (2024-12-11) 
+
+Sentiment values for /users/emily/Desktop/MSU/YoutubeComments/thestudio_clean.txt are: {'neg': 0.102, 'neu': 0.632, 'pos': 0.266, 'compound': 0.9992} (2024-12-11) 
+
+Sentiment values for /users/emily/Desktop/MSU/YoutubeComments/marvelwhatifs3_clean.txt are: {'neg': 0.093, 'neu': 0.58, 'pos': 0.327, 'compound': 0.9995} (2024-12-11) 
+
+Sentiment values for /users/emily/Desktop/MSU/YoutubeComments/sheeransubtract_clean.txt are: {'neg': 0.073, 'neu': 0.674, 'pos': 0.253, 'compound': 0.9993} (2024-12-11) 
