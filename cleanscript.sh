@@ -27,6 +27,6 @@ for file in "$commentdir"/*.txt; do
 
     cleanfile="./${fragment}_clean.txt"
 
-    sed -e 's/<[^<>]*>//g' $file | sed "s/&#39;/'/" | tr '[:upper:]' '[:lower:]' | tr -sc "a-z'" "\n" | grep -vw -f "$stop_words" | sort | uniq > "$cleanfile"
+    sed -e 's/<[^<>]*>//g' $file | sed "s/&#39;/'/" | tr '[:upper:]' '[:lower:]' | tr -sc "a-z'" "\n" | grep -vw -f "$stop_words" | sort > "$cleanfile"
 
 done
