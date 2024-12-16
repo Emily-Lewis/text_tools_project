@@ -1,71 +1,23 @@
-Sentiment values for /users/emily/Desktop/MSU/YoutubeComments/traindragon_clean.txt are: {'neg': 0.127, 'neu': 0.599, 'pos': 0.274, 'compound': 0.9972} (2024-12-11) 
+Sentiment values for /users/emily/Desktop/MSU/YoutubeComments/traindragon_clean.txt are: {'neg': 0.102, 'neu': 0.571, 'pos': 0.327, 'compound': 0.9994} (2024-12-16) 
 
-Sentiment values for /users/emily/Desktop/MSU/YoutubeComments/minecraftmovie_clean.txt are: {'neg': 0.14, 'neu': 0.656, 'pos': 0.204, 'compound': 0.9501} (2024-12-11) 
+Sentiment values for /users/emily/Desktop/MSU/YoutubeComments/minecraftmovie_clean.txt are: {'neg': 0.148, 'neu': 0.676, 'pos': 0.176, 'compound': 0.8565} (2024-12-16) 
 
-Sentiment values for /users/emily/Desktop/MSU/YoutubeComments/ghostofyotei_clean.txt are: {'neg': 0.099, 'neu': 0.684, 'pos': 0.217, 'compound': 0.995} (2024-12-11) 
+Sentiment values for /users/emily/Desktop/MSU/YoutubeComments/ghostofyotei_clean.txt are: {'neg': 0.172, 'neu': 0.639, 'pos': 0.189, 'compound': 0.9665} (2024-12-16) 
 
-Sentiment values for /users/emily/Desktop/MSU/YoutubeComments/bornpink_clean.txt are: {'neg': 0.1, 'neu': 0.755, 'pos': 0.145, 'compound': 0.9403} (2024-12-11) 
+Sentiment values for /users/emily/Desktop/MSU/YoutubeComments/bornpink_clean.txt are: {'neg': 0.116, 'neu': 0.734, 'pos': 0.151, 'compound': 0.9758} (2024-12-16) 
 
-Sentiment values for /users/emily/Desktop/MSU/YoutubeComments/overwatchclassic_clean.txt are: {'neg': 0.187, 'neu': 0.578, 'pos': 0.235, 'compound': 0.9797} (2024-12-11) 
+Sentiment values for /users/emily/Desktop/MSU/YoutubeComments/overwatchclassic_clean.txt are: {'neg': 0.134, 'neu': 0.577, 'pos': 0.289, 'compound': 0.9994} (2024-12-16) 
 
-Sentiment values for /users/emily/Desktop/MSU/YoutubeComments/squidgame2_clean.txt are: {'neg': 0.187, 'neu': 0.564, 'pos': 0.249, 'compound': 0.9782} (2024-12-11) 
+Sentiment values for /users/emily/Desktop/MSU/YoutubeComments/squidgame2_clean.txt are: {'neg': 0.142, 'neu': 0.571, 'pos': 0.287, 'compound': 0.998} (2024-12-16) 
 
-Sentiment values for /users/emily/Desktop/MSU/YoutubeComments/partyneverends_clean.txt are: {'neg': 0.182, 'neu': 0.59, 'pos': 0.228, 'compound': 0.964} (2024-12-11) 
+Sentiment values for /users/emily/Desktop/MSU/YoutubeComments/partyneverends_clean.txt are: {'neg': 0.188, 'neu': 0.574, 'pos': 0.238, 'compound': 0.9844} (2024-12-16) 
 
-Sentiment values for /users/emily/Desktop/MSU/YoutubeComments/captainamerica_clean.txt are: {'neg': 0.156, 'neu': 0.584, 'pos': 0.259, 'compound': 0.995} (2024-12-11) 
+Sentiment values for /users/emily/Desktop/MSU/YoutubeComments/captainamerica_clean.txt are: {'neg': 0.136, 'neu': 0.621, 'pos': 0.243, 'compound': 0.998} (2024-12-16) 
 
-Sentiment values for /users/emily/Desktop/MSU/YoutubeComments/subnautica2_clean.txt are: {'neg': 0.17, 'neu': 0.62, 'pos': 0.209, 'compound': 0.9288} (2024-12-11) 
+Sentiment values for /users/emily/Desktop/MSU/YoutubeComments/subnautica2_clean.txt are: {'neg': 0.086, 'neu': 0.635, 'pos': 0.279, 'compound': 0.999} (2024-12-16) 
 
-Sentiment values for /users/emily/Desktop/MSU/YoutubeComments/thestudio_clean.txt are: {'neg': 0.133, 'neu': 0.607, 'pos': 0.26, 'compound': 0.9969} (2024-12-11) 
+Sentiment values for /users/emily/Desktop/MSU/YoutubeComments/thestudio_clean.txt are: {'neg': 0.092, 'neu': 0.66, 'pos': 0.248, 'compound': 0.9988} (2024-12-16) 
 
-Sentiment values for /users/emily/Desktop/MSU/YoutubeComments/marvelwhatifs3_clean.txt are: {'neg': 0.125, 'neu': 0.61, 'pos': 0.265, 'compound': 0.9964} (2024-12-11) 
+Sentiment values for /users/emily/Desktop/MSU/YoutubeComments/marvelwhatifs3_clean.txt are: {'neg': 0.06, 'neu': 0.62, 'pos': 0.32, 'compound': 0.9997} (2024-12-16) 
 
-Sentiment values for /users/emily/Desktop/MSU/YoutubeComments/sheeransubtract_clean.txt are: {'neg': 0.094, 'neu': 0.689, 'pos': 0.218, 'compound': 0.997} (2024-12-11) 
-
-Sentiment values for /users/emily/Desktop/MSU/YoutubeComments/traindragon_clean.txt are: {'neg': 0.127, 'neu': 0.599, 'pos': 0.274, 'compound': 0.9972} (2024-12-11) 
-
-Sentiment values for /users/emily/Desktop/MSU/YoutubeComments/minecraftmovie_clean.txt are: {'neg': 0.14, 'neu': 0.656, 'pos': 0.204, 'compound': 0.9501} (2024-12-11) 
-
-Sentiment values for /users/emily/Desktop/MSU/YoutubeComments/ghostofyotei_clean.txt are: {'neg': 0.099, 'neu': 0.684, 'pos': 0.217, 'compound': 0.995} (2024-12-11) 
-
-Sentiment values for /users/emily/Desktop/MSU/YoutubeComments/bornpink_clean.txt are: {'neg': 0.1, 'neu': 0.755, 'pos': 0.145, 'compound': 0.9403} (2024-12-11) 
-
-Sentiment values for /users/emily/Desktop/MSU/YoutubeComments/overwatchclassic_clean.txt are: {'neg': 0.187, 'neu': 0.578, 'pos': 0.235, 'compound': 0.9797} (2024-12-11) 
-
-Sentiment values for /users/emily/Desktop/MSU/YoutubeComments/squidgame2_clean.txt are: {'neg': 0.187, 'neu': 0.564, 'pos': 0.249, 'compound': 0.9782} (2024-12-11) 
-
-Sentiment values for /users/emily/Desktop/MSU/YoutubeComments/partyneverends_clean.txt are: {'neg': 0.182, 'neu': 0.59, 'pos': 0.228, 'compound': 0.964} (2024-12-11) 
-
-Sentiment values for /users/emily/Desktop/MSU/YoutubeComments/captainamerica_clean.txt are: {'neg': 0.156, 'neu': 0.584, 'pos': 0.259, 'compound': 0.995} (2024-12-11) 
-
-Sentiment values for /users/emily/Desktop/MSU/YoutubeComments/subnautica2_clean.txt are: {'neg': 0.17, 'neu': 0.62, 'pos': 0.209, 'compound': 0.9288} (2024-12-11) 
-
-Sentiment values for /users/emily/Desktop/MSU/YoutubeComments/thestudio_clean.txt are: {'neg': 0.133, 'neu': 0.607, 'pos': 0.26, 'compound': 0.9969} (2024-12-11) 
-
-Sentiment values for /users/emily/Desktop/MSU/YoutubeComments/marvelwhatifs3_clean.txt are: {'neg': 0.125, 'neu': 0.61, 'pos': 0.265, 'compound': 0.9964} (2024-12-11) 
-
-Sentiment values for /users/emily/Desktop/MSU/YoutubeComments/sheeransubtract_clean.txt are: {'neg': 0.094, 'neu': 0.689, 'pos': 0.218, 'compound': 0.997} (2024-12-11) 
-
-Sentiment values for /users/emily/Desktop/MSU/YoutubeComments/traindragon_clean.txt are: {'neg': 0.096, 'neu': 0.598, 'pos': 0.305, 'compound': 0.9994} (2024-12-11) 
-
-Sentiment values for /users/emily/Desktop/MSU/YoutubeComments/minecraftmovie_clean.txt are: {'neg': 0.136, 'neu': 0.694, 'pos': 0.17, 'compound': 0.9211} (2024-12-11) 
-
-Sentiment values for /users/emily/Desktop/MSU/YoutubeComments/ghostofyotei_clean.txt are: {'neg': 0.134, 'neu': 0.66, 'pos': 0.205, 'compound': 0.9949} (2024-12-11) 
-
-Sentiment values for /users/emily/Desktop/MSU/YoutubeComments/bornpink_clean.txt are: {'neg': 0.12, 'neu': 0.723, 'pos': 0.157, 'compound': 0.9812} (2024-12-11) 
-
-Sentiment values for /users/emily/Desktop/MSU/YoutubeComments/overwatchclassic_clean.txt are: {'neg': 0.132, 'neu': 0.584, 'pos': 0.284, 'compound': 0.9993} (2024-12-11) 
-
-Sentiment values for /users/emily/Desktop/MSU/YoutubeComments/squidgame2_clean.txt are: {'neg': 0.176, 'neu': 0.56, 'pos': 0.263, 'compound': 0.9941} (2024-12-11) 
-
-Sentiment values for /users/emily/Desktop/MSU/YoutubeComments/partyneverends_clean.txt are: {'neg': 0.209, 'neu': 0.583, 'pos': 0.209, 'compound': 0.0162} (2024-12-11) 
-
-Sentiment values for /users/emily/Desktop/MSU/YoutubeComments/captainamerica_clean.txt are: {'neg': 0.121, 'neu': 0.547, 'pos': 0.332, 'compound': 0.9996} (2024-12-11) 
-
-Sentiment values for /users/emily/Desktop/MSU/YoutubeComments/subnautica2_clean.txt are: {'neg': 0.104, 'neu': 0.65, 'pos': 0.245, 'compound': 0.9983} (2024-12-11) 
-
-Sentiment values for /users/emily/Desktop/MSU/YoutubeComments/thestudio_clean.txt are: {'neg': 0.102, 'neu': 0.632, 'pos': 0.266, 'compound': 0.9992} (2024-12-11) 
-
-Sentiment values for /users/emily/Desktop/MSU/YoutubeComments/marvelwhatifs3_clean.txt are: {'neg': 0.093, 'neu': 0.58, 'pos': 0.327, 'compound': 0.9995} (2024-12-11) 
-
-Sentiment values for /users/emily/Desktop/MSU/YoutubeComments/sheeransubtract_clean.txt are: {'neg': 0.073, 'neu': 0.674, 'pos': 0.253, 'compound': 0.9993} (2024-12-11) 
+Sentiment values for /users/emily/Desktop/MSU/YoutubeComments/sheeransubtract_clean.txt are: {'neg': 0.089, 'neu': 0.677, 'pos': 0.235, 'compound': 0.999} (2024-12-16) 
